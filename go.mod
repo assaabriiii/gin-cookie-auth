@@ -1,4 +1,4 @@
-module gin-cookie-auth
+module github.com/assaabriiii/gin-cookie-auth
 
 go 1.23.4
 
